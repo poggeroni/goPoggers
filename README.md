@@ -1,4 +1,4 @@
-# goPoggers
+# gopoggers
 A stupid go script that prints hardcoded Unicode Art of "POGGERS" (Twitch emote). The idea is that you run this to celebrate when you get something right on your machine.
 
 ## Credits

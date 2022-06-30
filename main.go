@@ -6,9 +6,9 @@ import (
 )
 
 func help(outputStream *os.File) {
-	fmt.Fprintln(outputStream, `goPoggers: celebrate something with the right energy.
+	fmt.Fprintln(outputStream, `gopoggers: celebrate something with the right energy.
 
-	USAGE: ./poggers [ [-a | -b | -p] | [-h | --help] ]
+	USAGE: gopoggers [ [-a | -b | -p] | [-h | --help] ]
 
 	OPTIONS:
 		-h | --help	show this help

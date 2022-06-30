@@ -1,3 +1,3 @@
-module github.com/poggeroni/goPoggers
+module github.com/poggeroni/gopoggers
 
-go 1.16
+go 1.18
